@@ -12,4 +12,7 @@ Scope of the subcommittee
  - Recommendation: Prepare a guidebook (recommendation) to select indoor map format(s) and integrate them depending on application types: Integration may include conversion between formats – gradual progress, spiral approach
  
 Reports
- - [OSM Indoor and KML](https://drive.google.com/file/d/1E52o3sSWzTxmU9ssjlAMSfK1fuTnToCj/view?usp=sharing)
+ - [OSM Indoor and KML](https://drive.google.com/file/d/1E52o3sSWzTxmU9ssjlAMSfK1fuTnToCj/view?usp=sharing) by A. Pérez-Navarro and J. Torres-Sospedra
+ - [OGC IndoorGML](https://drive.google.com/file/d/1zHHGIuE4W-qJn6XynZbFWsB68sjHZsVe/view?usp=sharing) by Ki-Joune Li
+ - [OGC CityGML 2.0 LoD 4](https://drive.google.com/file/d/1GwFPwVChe4Lcj-T0DPONn8PsS93By7Mb/view?usp=sharing) by Ki-Joune Li
+ - 
