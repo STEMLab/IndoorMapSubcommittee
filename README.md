@@ -16,4 +16,4 @@ Reports (videos, slides)
  - [OGC IndoorGML](https://drive.google.com/file/d/1zHHGIuE4W-qJn6XynZbFWsB68sjHZsVe/view?usp=sharing) by Ki-Joune Li
  - [OGC CityGML 2.0 LoD 4](https://drive.google.com/file/d/1GwFPwVChe4Lcj-T0DPONn8PsS93By7Mb/view?usp=sharing) by Ki-Joune Li
  - [IEEE/RAS-MDR, ISO/TC204](https://drive.google.com/file/d/1s2sJsr708EkZsUQT0g1yIIkNjPCHSUSk/view?usp=sharing) by Ryan Ryu
- - [Comparing CityGML LoD 4 and IndoorGML)(https://drive.google.com/file/d/1r7_b8X79Tk04orKed3m-5V7ACbyHZquJ/view?usp=sharing) by Ki-Joune Li
+ - [Comparing CityGML LoD 4 and IndoorGML](https://drive.google.com/file/d/1r7_b8X79Tk04orKed3m-5V7ACbyHZquJ/view?usp=sharing) by Ki-Joune Li
