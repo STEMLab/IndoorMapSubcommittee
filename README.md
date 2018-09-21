@@ -14,7 +14,7 @@ Scope of the subcommittee
 Subcommittee chair: Ki-Joune Li (Pusan National University, lik@pnu.kr)
  
 Reports (videos, slides)
- - [OSM Indoor and KML](https://drive.google.com/file/d/1E52o3sSWzTxmU9ssjlAMSfK1fuTnToCj/view?usp=sharing) by A. Pérez-Navarro and J. Torres-Sospedra
+ - [OSM Indoor and KML video](https://drive.google.com/file/d/1E52o3sSWzTxmU9ssjlAMSfK1fuTnToCj/view?usp=sharing) and [slide](https://drive.google.com/file/d/1Sapejlgu04-LQIW6Ftxjm5uLwDwCgpzA/view?usp=sharing) by A. Pérez-Navarro and J. Torres-Sospedra
  - [OGC IndoorGML slide](https://drive.google.com/file/d/1zHHGIuE4W-qJn6XynZbFWsB68sjHZsVe/view?usp=sharing) and [video](https://youtu.be/DB-cqC2t0Jc) by Ki-Joune Li
  - [OGC CityGML 2.0 LoD 4 slide](https://drive.google.com/file/d/1GwFPwVChe4Lcj-T0DPONn8PsS93By7Mb/view?usp=sharing) and [video](https://youtu.be/wJsxVYZpjtE) by Ki-Joune Li
  - [IEEE/RAS-MDR, ISO/TC204](https://drive.google.com/file/d/1s2sJsr708EkZsUQT0g1yIIkNjPCHSUSk/view?usp=sharing) by Ryan Ryu
