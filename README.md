@@ -1,7 +1,7 @@
 # IndoorMapSubcommittee
 IPIN/ISC Indoor Map Subcommittee
 
-Goal of the subcommittee
+Goals of the subcommittee
  - evaluate the relevant published standards for indoor maps,  and
  - make recommendations for the appropriate data format for storage and transmission of the indoor maps.
 
@@ -19,3 +19,4 @@ Reports (videos, slides)
  - [OGC CityGML 2.0 LoD 4 slide](https://drive.google.com/file/d/1GwFPwVChe4Lcj-T0DPONn8PsS93By7Mb/view?usp=sharing) and [video](https://youtu.be/wJsxVYZpjtE) by Ki-Joune Li
  - [IEEE/RAS-MDR, ISO/TC204](https://drive.google.com/file/d/1s2sJsr708EkZsUQT0g1yIIkNjPCHSUSk/view?usp=sharing) by Ryan Ryu
  - [Comparing CityGML LoD 4 and IndoorGML](https://drive.google.com/file/d/1r7_b8X79Tk04orKed3m-5V7ACbyHZquJ/view?usp=sharing) by Ki-Joune Li
+ - [Report to IPIN/ISC-Indoor Map Subcommittee Workshop in Nantes on September 24, 2018](https://drive.google.com/file/d/1tIQi5mNIWZo2v6h8QUFNkySS9dR0WLBd/view?usp=sharing)
